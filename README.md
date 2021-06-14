@@ -1,7 +1,31 @@
-# Spark
+# Spark (branch-0.5)
 
 Lightning-Fast Cluster Computing - <http://www.spark-project.org/>
 
+## Earliest non-alpha version 
+```bash
+# fxrc @ popos in ~/SourceCode/spark-0.5 on git:main o [14:12:42] 
+$ scc .
+───────────────────────────────────────────────────────────────────────────────
+Language                 Files     Lines   Blanks  Comments     Code Complexity
+───────────────────────────────────────────────────────────────────────────────
+Scala                       81     10683     1605      1222     7856       1094
+XML                         66       868        9         0      859          0
+Shell                        2         7        0         2        5          0
+gitignore                    2        94       17        34       43          0
+BASH                         1        74       12        11       51         11
+Markdown                     1        72       28         0       44          0
+───────────────────────────────────────────────────────────────────────────────
+Total                      153     11798     1671      1269     8858       1105
+───────────────────────────────────────────────────────────────────────────────
+Estimated Cost to Develop (organic) $266,868
+Estimated Schedule Effort (organic) 8.325440 months
+Estimated People Required (organic) 2.847780
+───────────────────────────────────────────────────────────────────────────────
+Processed 393946 bytes, 0.394 megabytes (SI)
+───────────────────────────────────────────────────────────────────────────────
+
+```
 
 ## Online Documentation
 
